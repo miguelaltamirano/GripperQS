@@ -2,7 +2,7 @@
 
 1. If you don't have the Arduino IDE installed yet, install it using the next instructions.
 
-![alt text](Images/arduinoIDE_install.png?raw=true "Title")
+![alt text](Images/arduinoIDE_install.png)
 
 
 2. To control the dynamixel, download the folder DynamixelSerial from this repository and install it in the Arduino IDE.
