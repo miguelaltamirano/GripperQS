@@ -7,4 +7,11 @@
 
 2. To control the dynamixel, download the folder DynamixelSerial from this repository and install it in the Arduino IDE.
 
-![alt text](Images/install_library.png?raw=true "Title")   
+![alt text](Images/install_library.png?raw=true "Title")  
+
+
+# Mediapipe
+
+pip install mediapipe
+
+
